@@ -2,7 +2,7 @@
 
 A Flutter project to keep track of your expense and record them into as much as category as you wish.
 
-<h3>Pains Point</h3>
+<h3>Pain Points</h3>
 
 - At the end of the month, you found out that you have spent a lot of money, but you have totally no idea what have you been spending for the whole past month.
 
